@@ -7,9 +7,10 @@
         "dev": "node app/main.js"
     },
     "keywords": [
-        "build-your-own-x"
+        "My-Git"
     ],
     "author": "",
     "license": "MIT",
-    "dependencies": {}
+    "dependencies": {
+    }
 }
