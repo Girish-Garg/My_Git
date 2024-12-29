@@ -79,6 +79,11 @@ node app/main.js ls-tree --name-only <sha>
 ```  
 Lists only the names of files in a tree object.  
 
+### Git Clone
+'''bash
+node app/main.js <repo-URL> <file-path>
+'''
+
 
 
 ## Notes  
