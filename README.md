@@ -83,6 +83,7 @@ Lists only the names of files in a tree object.
 ```bash
 node app/main.js <repo-URL> <file-path>
 ```
+Clone a Git repository using repository url and directory path
 
 
 
